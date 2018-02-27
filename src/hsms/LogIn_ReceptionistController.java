@@ -17,6 +17,7 @@ import javafx.scene.control.Alert.AlertType;;
 
 public class LogIn_ReceptionistController {
 
+
     @FXML
     private AnchorPane ReceptionsPane;
 
